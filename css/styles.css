@@ -334,7 +334,7 @@ body {
   width: 696px;
 }
 
-.modal-btn {
+.btn-order {
   border: none;
   background-color: var(--active);
   color: var(--font-color-white);

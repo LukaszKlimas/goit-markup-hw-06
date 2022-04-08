@@ -1,0 +1,35 @@
+:root {
+    --background-header: #ffffff;
+    --background-team: #f5f4fa;
+    --background-dark: hsl(235, 10%, 21%);
+    --background-button: #f5f4fa;
+    --active: #2196f3;
+    --font-color-main: hsla(0, 0%, 13%, 1);
+    --font-color-second: #757575;
+    --font-color-white: #ffffff;
+    --font-color-white-opacity: rgba(255, 255, 255, 0.6);
+    --main-font: 'Roboto', sans-serif;
+    --second-font: 'Raleway', sans-serif;
+    --ls-font14px: 0.03em;
+    --portfolio-header-border-bottom: #ececec;
+    --portfolio-projects-list-item-border-color: #eeeeee;
+    --duration-time: 250ms;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+    padding: 0;
+  }
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  ul,
+  ol {
+    margin: 0;
+    padding: 0;
+  }
